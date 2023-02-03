@@ -12,6 +12,6 @@ public class Factorial_of_given_number {
 
 
         }
-        System.out.println("The factorial of given number is:"+fact);
+        System.out.println("The factorial of given number is: "+fact);
     }
 }
